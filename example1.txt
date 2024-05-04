@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is some conflicting content and I'm suprised
+=======
+This is some content
+This is some content
+>>>>>>> feature
